@@ -2,7 +2,7 @@
 
 ## 🏆 Reconhecimento Acadêmico
 
-O FitFlex foi eleito o **melhor trabalho** da disciplina Trabalho Interdisciplinar II: Backend do semestre 2025/01, no curso de **Ciência da Computação** da **PUC Minas**, destacando-se pela inovação tecnológica, integração entre front-end e back-end, e aplicação prática de inteligência artificial em soluções de saúde e nutrição.
+O FitFlex foi eleito o **melhor trabalho** da disciplina Trabalho Interdisciplinar II: Backend do semestre 2025/01, no curso de **Ciência da Computação** da **PUC Minas**, destacando-se pela inovação tecnológica, integração entre front-end e back-end, e aplicação prática de inteligência artificial.
 
 ## 🧠 Sobre o Projeto
 O **FitFlex** é uma plataforma web inovadora desenvolvida no curso de **Ciência da Computação** da **PUC Minas**, com fins acadêmicos e foco em aprendizado prático. Seu objetivo é apoiar pessoas diabéticas e demais interessados na adoção de uma alimentação mais saudável e personalizada. O sistema oferece uma experiência completa, permitindo que os usuários:
