@@ -1,0 +1,25 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: FitFlex
+authors:
+  - family-names: Salim Khouri Antunes
+    given-names: Alice
+  - family-names: Henrique Oliveira Diniz
+    given-names: Felipe
+  - family-names: de Almeida Moreira
+    given-names: Matheus
+  - family-names: de Oliveira Capanema
+    given-names: Daniel 
+    name-suffix: Professor
+    affiliation: PUC Minas
+  - family-names: Mara Freitas Diniz
+    given-names: Luciana
+    name-suffix: Professor
+    affiliation: PUC Minas
+keywords:
+  - software educacional
+  - PUC Minas
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2025-06-13
