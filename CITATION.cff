@@ -1,7 +1,7 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: FitFlex
-authors:
+authors: 
   - family-names: Salim Khouri Antunes
     given-names: Alice
   - family-names: Henrique Oliveira Diniz
